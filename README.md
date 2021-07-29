@@ -15,13 +15,13 @@ For each test case, calculate the sum of digits of N, and display it in a new li
 
 Input
 
-3 
-12345
-31203
-2123
+-> 3 
+-> 12345
+-> 31203
+-> 2123
 
 Output
 
-15
-9
-8
+-> 15
+-> 9
+-> 8
